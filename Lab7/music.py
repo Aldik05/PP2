@@ -10,9 +10,9 @@ FONT_SIZE = 35
 FONT_COLOR = (0, 0, 0)
 
 MUSIC_FILES = [
-    os.path.join("tsis7", "music", "Bruno Mars - Finesse.mp3"),
-    os.path.join("tsis7", "music", "Jay Sean feat. Lil Wayne - Down.mp3"),
-    os.path.join("tsis7", "music", "Mac Miller - Self Care.mp3")
+    r"C:\Users\ACER\Desktop\PP2\PP2-1\Lab7\music\Bruno Mars - Finesse.mp3",
+    r"C:\Users\ACER\Desktop\PP2\PP2-1\Lab7\music\Jay Sean feat. Lil Wayne - Down.mp3",
+    r"C:\Users\ACER\Desktop\PP2\PP2-1\Lab7\music\Mac Miller - Self Care.mp3"
 ]
 
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
